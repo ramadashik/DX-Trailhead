@@ -1,0 +1,77 @@
+[
+    [
+        "/home/noname/sfdx/my_sfdx_project/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/home/noname/sfdx/my_sfdx_project/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1540552674964,
+            "changeTime": 1540552674964,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1540552674964,
+            "changeTime": 1540552674964,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1540552674964,
+            "changeTime": 1540552674964,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/home/noname/sfdx/my_sfdx_project/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1540552674964,
+            "changeTime": 1540552674964,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/noname/sfdx/my_sfdx_project/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/home/noname/sfdx/my_sfdx_project/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1540552720359,
+            "changeTime": 1540552720359,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
